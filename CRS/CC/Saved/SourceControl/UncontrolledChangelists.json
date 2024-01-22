@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"B:/PRG/ESTUDO_UE5/CRS/CC/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/CC/Content/ThirdPerson/Blueprints/BP_Pickup.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/CC/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/4E/VXXCVBTUGVC4PDSSXB1HK7.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/CC/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/CC/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/OX/WW9D4RZWXW8DR9SLMJS3KY.uasset"
+			]
+		}
+	]
+}
