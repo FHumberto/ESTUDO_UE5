@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Background/T_Background.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Misc/T_Cross.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Misc/T_Exclamation.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Attack.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Defeated.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Idle.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Toad/T_Toad_Attack.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Toad/T_Toad_Defeated.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Toad/T_Toad_Idle.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Background/T_Background_Sprite.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Misc/T_Cross_Sprite.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Misc/T_Exclamation_Sprite.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Attack_Sprite.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Defeated_Sprite.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Idle_Sprite.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Toad/T_Toad_Attack_Sprite.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Toad/T_Toad_Defeated_Sprite.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Toad/T_Toad_Idle_Sprite.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Maps/MAP_Duel.umap",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Blueprints/BP_Samurai.uasset"
+			]
+		}
+	]
+}
