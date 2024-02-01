@@ -24,7 +24,12 @@
 				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Toad/T_Toad_Defeated_Sprite.uasset",
 				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/PaperAssets/Toad/T_Toad_Idle_Sprite.uasset",
 				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Maps/MAP_Duel.umap",
-				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Blueprints/BP_Samurai.uasset"
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Blueprints/BP_Samurai.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Blueprints/BP_Samurai_NPC.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Blueprints/GM_Duel.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Blueprints/Enums/E_Phase.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Blueprints/BP_Exclamation.uasset"
 			]
 		}
 	]
