@@ -29,7 +29,9 @@
 				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Blueprints/BP_Samurai_NPC.uasset",
 				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Blueprints/GM_Duel.uasset",
 				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Blueprints/Enums/E_Phase.uasset",
-				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Blueprints/BP_Exclamation.uasset"
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Blueprints/BP_Exclamation.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Input/Actions/IA_Attack.uasset",
+				"B:/PRG/ESTUDO_UE5/CRS/QuickDraw/Content/Input/IMC_Duel.uasset"
 			]
 		}
 	]
